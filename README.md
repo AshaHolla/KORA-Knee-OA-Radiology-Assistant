@@ -1,1 +1,1 @@
-# KORA-Knee-OA_radiology-Assistant
+# KORA-Knee OA Radiology Assistant
