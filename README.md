@@ -1,4 +1,4 @@
-# KORA-Knee OA Radiology Assistant
+# KORA - Knee Osteoarthritis Radiology Assistant
 KORA is an online webservice which aims to aid the radiologist in reading Knee MRI Osteoarthrtis images. 
 
 This link can be used to access / use the service https://ashaholla-kora-knee-oa-radiology-assistant-app-ngekih.streamlit.app/
