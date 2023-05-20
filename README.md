@@ -3,7 +3,7 @@ KORA is an online webservice which aims to aid the radiologist in reading Knee M
 
 This link can be used to access / use the service https://ashaholla-kora-knee-oa-radiology-assistant-app-ngekih.streamlit.app/
 
-All the files can be found on the master branch. After cloning the repo, follow the steps given below to run the project on your local system.
+**All the files can be found on the master branch.** After cloning the repo, follow the steps given below to run the project on your local system.
 Open command prompt and type the following commands
 1. pip install requirements.txt  
    to download all dependencies and libraries uses
